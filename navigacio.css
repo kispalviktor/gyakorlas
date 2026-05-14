@@ -46,7 +46,11 @@ main{
 
 
 @media (max-width: 800px){
-
+    .card{
+        width: 100%;
+        padding: 10px;
+        display: inline-block;
+    }
 }
 
 .card img{

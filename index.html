@@ -69,7 +69,20 @@
         </div>
     </main>
     <script>
-        
+        function szamol(){
+            let szeles = document.getElementById("szeles").value;
+            let magas = document.getElementById("magas").value;
+            let ar = document.getElementById("ar").value;
+
+            terulet = szeles * magas / 10000;
+
+            koltseg = terulet * ar;
+
+            document.getElementById("terulet").innerHTML = 
+                terulet + " dm²";
+            document.getElementById("koltseg").innerHTML =
+                koltseg;
+        }
     </script>
     
 </body>
