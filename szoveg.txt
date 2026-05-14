@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+Múzeumi térkép poszter
+Egy nagy méretű múzeumi poszter elkészítésének költségét meghatározó tényezők többek közt a
+térkép stílusa
+térkép mérete
+
+--- Képek (fájlnév és alt a kártyákon való elhelyezéshez) ---
+Ősi tájékozódás kártya: iranytu.jpg | alt: Réz iránytű a térképen
+Középkori térképek kártya: kezi_terkep.jpg | alt: Régi kézzel színezett térképrészlet
+Műholdas navigáció kártya (a fenti bekezdés után): gps_kepernyo.jpg | alt: Képernyő GPS útvonallal
